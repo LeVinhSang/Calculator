@@ -1,6 +1,7 @@
 
 /* Test GitHub */
 /* Test push GitHub */
+/* Test pull WebStorm */
 
 const operator = require('./Operators');
 
